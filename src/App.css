@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.activeBtn {
+  background-color: rgba(0, 0, 0, 0.185);
+}
